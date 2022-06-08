@@ -2,8 +2,8 @@ Umamusume-賽馬娘二創專案
 ===
 
 :::warning
-本遊戲為二創專案，模型、場景由CyGames所有，純為學術而非營利用途
-本遊戲由於專案過大，因此僅上傳腳本部分，Demo試玩影片-https://youtu.be/BxNQK-wWP4k
+- 本遊戲為二創專案，模型、場景由CyGames所有，純為學術而非營利用途
+- 本遊戲由於專案過大，因此僅上傳腳本部分，Demo試玩影片-https://youtu.be/BxNQK-wWP4k
 :::
 # 遊戲介紹
 - 賽馬娘是一款養成遊戲，玩家將以訓練員的身分，
